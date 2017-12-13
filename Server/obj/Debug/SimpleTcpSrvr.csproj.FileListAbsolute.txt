@@ -1,0 +1,6 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LETrinhHoangAnhTien-buoi2\Server\bin\Debug\SimpleTcpSrvr.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LETrinhHoangAnhTien-buoi2\Server\bin\Debug\SimpleTcpSrvr.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LETrinhHoangAnhTien-buoi2\Server\bin\Debug\SimpleTcpSrvr.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LETrinhHoangAnhTien-buoi2\Server\obj\Debug\SimpleTcpSrvr.csprojResolveAssemblyReference.cache
+c:\users\anh tien\documents\visual studio 2013\Projects\LETrinhHoangAnhTien-buoi2\Server\obj\Debug\SimpleTcpSrvr.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LETrinhHoangAnhTien-buoi2\Server\obj\Debug\SimpleTcpSrvr.pdb
